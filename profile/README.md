@@ -1,6 +1,6 @@
 # RePAIR Project
 
-![cover image for RePAIR project](rp_cover.jpg)
+![cover image for RePAIR project](https://github.com/RePAIRProject/.github/blob/master/profile/rp_cover.jpg)
 
 ‘RePAIR’ project is an acronym for Reconstructing the Past: Artificial Intelligence and Robotics meet Cultural Heritage. 
 The project has received funding from the Horizon 2020 research and innovation program of the European Union, under Grant Agreement no. 964854.
